@@ -9,7 +9,7 @@ One of my friends is running a small business as a motorcycle mechanic. He needs
 The purpose of writing this program is to show how SQL database can help us to keep records of all the customers and make our business more efficient. 
 
 
-[Software Demo Video](https://youtu.be/XpJ2_NG8Z1c)
+[SQL relational database demo video](https://youtu.be/XpJ2_NG8Z1c)
 
 # Relational Database
 
